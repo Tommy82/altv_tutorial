@@ -1,0 +1,19 @@
+{
+  "name": "altv_tutorial",
+  "version": "1.0.0",
+  "description": "AltV Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "Server-Start": "altv-server.exe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tommy82/altv_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tommy82/altv_tutorial/issues"
+  },
+  "homepage": "https://github.com/Tommy82/altv_tutorial#readme"
+}
